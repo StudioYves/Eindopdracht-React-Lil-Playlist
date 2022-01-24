@@ -2,7 +2,7 @@
 ![](react-lil-playlist-screenshot.png)
 
 ## Goal
-Creating a simple music playlist in React with sorting funcitonality. 
+Creating a simple music playlist in React with sorting functionality. 
 
 ## Requirements
 - The user is able to add and delete songs.
